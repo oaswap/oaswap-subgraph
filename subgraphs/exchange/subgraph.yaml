@@ -1,6 +1,6 @@
-specVersion: 0.0.2
-description: PancakeSwap is a decentralized protocol for automated token exchange on Binance Smart Chain.
-repository: https://github.com/pancakeswap
+specVersion: 0.0.1
+description: Oaswap is a decentralized protocol for automated token exchange on Oasis Emerald.
+repository: https://github.com/oaswap
 schema:
   file: ./schema.graphql
 dataSources:
